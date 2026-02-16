@@ -18,7 +18,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisstarlino&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" alt="streak graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=luisstarlino&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" alt="streak graph"  /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisstarlino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  /> -->
 </div>
 
